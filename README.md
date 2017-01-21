@@ -1,1 +1,1 @@
-# comp-intellig_umkc
+# Repository with the UMKC Computational Intelligence Class exercises
